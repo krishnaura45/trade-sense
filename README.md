@@ -22,7 +22,7 @@ The objective of this project was to forecast real-time market behavior using an
 
 ## 🧩 My Approach
 
-You can explore the complete methodology in this notebook: 🔗 [Jane Street - DL + Blend Ensemble](https://github.com/krishnaura45/tbp-skin-detect/blob/main/js-rmdf-sol-1.ipynb)
+You can explore the complete methodology in this notebook: 🔗 [Jane Street - DL + Blend Ensemble](https://github.com/krishnaura45/trade-sense/blob/main/js-rmdf-sol-1.ipynb)
 
 Key steps followed:
 
